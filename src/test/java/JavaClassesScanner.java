@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class JavaClasses {
+public class JavaClassesScanner {
 
     public static void main(String[] args) {
 // interface between user and progr for user input
